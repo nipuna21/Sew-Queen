@@ -5,8 +5,8 @@
     "keywords": ["sew", "queensew"],
     "stack": "container",
     "env": {
-        "_SEW_QUEEN_SESSION": {
-            "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
+        "_NINION_SESSION": {
+            "description": "QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න(https://replit.com/@nipuna21/NINIONBOT-1)",
             "required": true
         },
         "LANGUAGE": {
